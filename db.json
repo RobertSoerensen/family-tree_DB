@@ -44,6 +44,9 @@
 
             "level": 1,
             "children": [1,2]
+        },
+        {
+            "name": "Willy"
         }
     ]
 }

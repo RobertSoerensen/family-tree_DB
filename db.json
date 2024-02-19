@@ -1,0 +1,49 @@
+{
+    "levels": [0,1],
+    "individuals": [
+        {
+            "name": "Robert",
+            "fullname": "Robert Lindbjerg Ligaard Sørensen",
+            "gender": "Male",
+            "birthday": "21st January 2004",
+            "birthplace": "Kalundborg, Danmark",
+            "id": 1,
+
+            "level": 0,
+            "parents": [3, 4]
+        },
+        {
+            "name": "Sara",
+            "fullname": "Sara Lindbjerg Ligaard Sørensen",
+            "gender": "Female",
+            "birthday": "1st December 2001",
+            "birthplace": "Kalundborg, Danmark",
+            "id": 2,
+
+            "level": 0,
+            "parents": [3, 4]
+        },
+        {
+            "name": "Mikael",
+            "fullname": "Mikael Ligaard Sørensen",
+            "gender": "Male",
+            "birthday": "27th January 1970",
+            "birthplace": "Odsherred, Danmark",
+            "id": 3,
+
+            "level": 1,
+            "children": [1,2]
+        },
+        {
+            "name": "Grethe",
+            "fullname": "Grethe Lindbjerg Sørensen",
+            "gender": "Female",
+            "birthday": "8th September 1971",
+            "birthplace":"Odsherred, Danmark",
+            "id": 4,
+
+            "level": 1,
+            "children": [1,2]
+        }
+    ]
+}
